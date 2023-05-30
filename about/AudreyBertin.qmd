@@ -1,0 +1,47 @@
+---
+title: "Audrey Bertin"
+image: images/AudreyBertin.jpeg
+about:
+  template: solana
+  image-width: 15em
+  image-shape: round
+  image: images/AudreyBertin.jpeg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ambertin
+---
+
+## Education/Work Background
+
+Completed undergraduate degree in 2021 from Smith College in Statistical and Data Sciences (essentially, applied statistics). Currently a masters student in Computer Science at UMass.
+
+On top of school, I work full time as a data scientist at MassMutual, primarily building predictive models in Python.
+
+
+## R experience
+
+Used R in a few statistics/data science courses at Smith College so have some familiarity with tidyverse and the statistics functions. However, it's been a few years since I last used it regularly and there are lots of features I haven't learned yet, both old things that I never learned before as well as new features like across()/quarto documents. I am hoping to both get a refresher on what I've forgotten as well as learn about some new functions and features I've not seen before.
+
+
+## Research interests
+
+- How to do "good" science (reproducible results, open access, etc)
+- Algorithmic bias
+- Public policy/law around data and responsible technology use
+
+## Hometown
+
+Born and Raised in Austin, TX (until college). Just moved to Boston, MA!
+
+## Hobbies
+
+- 35mm film photography
+- Electric skateboarding
+- Video games and board games
+- Hiking/camping/outdoor stuff more generally
+- Rock climbing
+
+## Fun fact
+
+I have many fun facts but one is that I am a former Texas state champion at competitive map reading. 
